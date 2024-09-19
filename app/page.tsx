@@ -36,7 +36,7 @@ export default function Home() {
       <main className={styles.main}>
         <h1>{time}</h1>
         <span>
-          유찬이: <strong>{status ? "☀️" : "💤"}</strong>
+          유찬이 : <strong>{status ? "☀️" : "💤"}</strong>
         </span>
       </main>
     </div>
